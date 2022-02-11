@@ -8,6 +8,6 @@ import { Component } from "@angular/core";
   </div>
   `
 })
-export class AppComponenet {
+export class AppComponent {
   pageTitle: string = 'Acme Product Management';
 }
